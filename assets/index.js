@@ -1,0 +1,12 @@
+export {default as sound} from './Sound1';
+export {default as sound2} from './Sound2';
+export {default as Sound3} from './Sound3';
+export {default as Sound4} from './Sound4';
+export {default as Sound5} from './Sound5';
+export {default as Sound7} from './Sound7';
+export {default as Sound8} from './Sound8';
+export {default as Sound9} from './Sound9';
+export {default as Sound10} from './Sound10';
+export {default as Sound11} from './Sound11';
+export {default as Sound12} from './Sound12';
+export {default as Sound13} from './Sound13';
